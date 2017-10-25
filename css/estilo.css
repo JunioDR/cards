@@ -1,0 +1,169 @@
+/*Card 1*/
+#card1 {
+	width: 300px;
+	height:470px;
+	background-color:#103050;
+	margin-top:0px;
+}
+
+img{
+	width:270px;
+	height:280px;
+	object-fit: cover;
+    object-position: center;
+	margin-left:15px
+	
+}
+
+h3 , h5{
+	color:#ffffff;
+	font-family:sans-serif;
+	position:relative;
+}
+
+h3{
+	margin-left: 30px;
+	margin-top:5px;
+	font-size:22px;
+	
+}
+
+h5{
+	margin-left:100px;
+	margin-bottom:50px;
+	font-size:18px;
+}
+
+/*button{
+	position:relative;
+	width:130px;
+	height:30px;
+	margin-left:12px;
+	margin-top:-10px;
+}*/	
+
+#btn1{
+	background-color:#109010;
+	color:white;
+	width:130px;
+	height:30px;
+	margin-left:18px;
+}
+
+#btn2{
+	background-color:#901010;
+	color:white;
+	width:130px;
+	height:30px;
+}
+
+/*Card 2*/
+nav{
+	width:500px;
+	height:300px;
+	background-color:white;
+}
+
+nav header{
+	background-color:#e1e4e5;
+	height:40px;
+}
+
+ header h3{
+	color:black;
+	
+}
+nav img{
+	margin-left:-50px;
+	margin-top:-40px;
+}
+
+#p1{
+	font-family:sans-serif;
+	margin-left:30px;
+}
+
+#p2{
+	position:absolute;
+	margin-left:180px;
+	margin-top:-200px;
+	font-family:sans-serif;
+}
+
+#btn3{
+	background-color:#606060;
+	margin-left:-180px;
+	width:500px;
+	height:40px;
+	color:white;
+	font-size:20px;
+}
+
+/*card3*/
+#card3{
+	width:400px;
+	height:450px;
+	background-color:#e6e6e6;
+	box-shadow:3px 3px 3px gray;
+}
+
+#card3 img{
+	width:400px;
+	margin-left:0px;
+}
+
+#card3 h2{
+	position:absolute;
+	font-family:sans-serif;
+	margin-top:-35px;
+	
+}
+
+#card3 h3{
+	position:absolute;
+	margin-top:-50px;
+	text-shadow:1px 1px gray;
+}
+
+/*#card3 ul li{
+	display:inline;
+	text-transform:uppercase;
+	padding	:25px;
+	margin:22px;
+	margin-left:-4px;
+	font-size:22px;
+	font-family:sans-serif;
+}*/
+
+#card3 p{
+	text-transform:uppercase;
+	font-size:22px;
+	font-family:sans-serif;
+	display:inline;
+	
+}
+
+#qui{
+	padding	:25px;
+	margin:22px;
+}
+#sex{
+	padding	:25px;
+	margin:15px;
+}
+#sab{
+	padding	:25px;
+	margin:17px;
+}
+
+#icones img{
+	width:90px;
+	height:90px;
+	padding:10px;
+	margin:3px;
+	margin-top:10px;
+	margin-left:12px;
+	border-style:solid;
+	border-width:1px;
+	
+}
